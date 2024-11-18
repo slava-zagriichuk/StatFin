@@ -1,2 +1,2 @@
 # StatFin
-Studies over Finnish statistics database (StatFin)
+Studies over the Finnish statistics database (StatFin)
